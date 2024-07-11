@@ -1,4 +1,4 @@
-package com.spring_security.request;
+package com.spring_security.dto.request;
 
 import com.spring_security.model.Role;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.spring_security.request;
+package com.spring_security.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

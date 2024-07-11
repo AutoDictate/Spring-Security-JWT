@@ -1,6 +1,5 @@
-package com.spring_security.request;
+package com.spring_security.dto.reponse;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

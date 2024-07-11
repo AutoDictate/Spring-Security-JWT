@@ -1,7 +1,7 @@
 package com.spring_security.controller;
 
-import com.spring_security.request.AuthRequest;
-import com.spring_security.request.RegisterRequest;
+import com.spring_security.dto.request.AuthRequest;
+import com.spring_security.dto.request.RegisterRequest;
 import com.spring_security.service.AuthenticationService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
