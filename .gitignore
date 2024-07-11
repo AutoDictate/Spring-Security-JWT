@@ -1,0 +1,38 @@
+# IntelliJ IDEA specific files
+/.idea/
+
+# User-specific files
+/.idea/*
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven specific files
+/.mvn/
+/mvnw
+/mvnw.cmd
+target/
+
+# Gradle specific files
+/.gradle/
+/build/
+/gradlew
+/gradlew.bat
+.gradle/
+
+# Spring Boot specific files
+spring.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+
+# Exclude build files
+/target/
+/out/
